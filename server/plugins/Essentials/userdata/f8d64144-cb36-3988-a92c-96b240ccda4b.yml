@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766534886936
+  login: 1766534794723
+money: '0'
+last-account-name: Hacker_test
+logoutlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -20.5
+  y: 75.0
+  z: -11.5
+  yaw: 78.74996948242188
+  pitch: 86.84998321533203
+lastlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -22.397948860462193
+  y: 71.0
+  z: -18.432475844835597
+  yaw: -35.10000228881836
+  pitch: 51.9000129699707

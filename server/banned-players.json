@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "f8d64144-cb36-3988-a92c-96b240ccda4b",
+    "name": "Hacker_test",
+    "created": "2025-12-24 00:08:06 +0000",
+    "source": "§a§l§oJmofrfr§r",
+    "expires": "forever",
+    "reason": "Hacking"
+  }
+]

@@ -1,0 +1,8 @@
+21:08:23.149 INFO  Limbo -- Starting server...
+21:08:27.676 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+21:26:18.574 INFO  Limbo -- Player Lucifer_ connected (/127.0.0.1:34162) [V1_12_2]
+21:26:25.000 INFO  Limbo -- Player Jmofrfr connected (/127.0.0.1:58780) [V1_12_2]
+21:26:31.071 INFO  Limbo -- Player Lucifer_ disconnected
+21:26:31.563 INFO  Limbo -- Player Jmofrfr disconnected
+21:27:07.108 INFO  Limbo -- Player ChaosBringer connected (/127.0.0.1:50028) [V1_12_2]
+21:27:33.230 INFO  Limbo -- Player ChaosBringer disconnected

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766007305088
+  login: 1766006853265
+money: '0'
+last-account-name: ChaosBringer
+logoutlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: 81.01527187412617
+  y: 65.0
+  z: 41.60412117987754
+  yaw: 114.69544219970703
+  pitch: -90.0

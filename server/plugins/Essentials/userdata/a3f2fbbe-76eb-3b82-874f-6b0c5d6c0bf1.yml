@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1766535109511
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766536772423
+  login: 1766534358701
+money: '0'
+last-account-name: Jmofrfr
+lastlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -16.02967404674922
+  y: 78.64413159251295
+  z: -12.351887811557908
+  yaw: -168.15000915527344
+  pitch: 7.199999809265137
+logoutlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -119.09089187389758
+  y: 67.0
+  z: -4.7092305341404606
+  yaw: -1.6599940061569214
+  pitch: 8.628835678100586
+nickname: §a§l§oJmofrfr

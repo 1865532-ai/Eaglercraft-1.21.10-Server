@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1766534801883
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766535824874
+  login: 1766533557666
+money: '0'
+last-account-name: Gimu_fr
+logoutlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -94.72018859461299
+  y: 56.0
+  z: 17.243996251533332
+  yaw: 148.79708862304688
+  pitch: 24.600011825561523
+lastlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -8.992319894910132
+  y: 114.33609426006863
+  z: -45.43916882428408
+  yaw: 21.749330520629883
+  pitch: 43.20000076293945

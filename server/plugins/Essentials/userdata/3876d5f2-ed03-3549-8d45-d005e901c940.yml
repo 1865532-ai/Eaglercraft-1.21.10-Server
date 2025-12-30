@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1766379230079
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766380576513
+  login: 1766380172596
+money: '0'
+last-account-name: MrIrishMan_fr
+lastlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -77.68561060576278
+  y: 69.0
+  z: -16.22470283208614
+  yaw: -87.15023803710938
+  pitch: 17.5500431060791
+logoutlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -27.55264253617682
+  y: 65.0
+  z: -46.52034085332027
+  yaw: -164.99989318847656
+  pitch: 12.149995803833008
