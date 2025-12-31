@@ -32,7 +32,7 @@ All plugins are in the **Plugins folder inside SERVER**, not Velocity.<br>
 - **Vault** – Economy<br>
 
 ### NPC / World
-- **Citizens** – NPCs<br>
+- **Citizens** – NPCs (There are NPCs already in the world, just "/npc list" and then remove them if needed.)<br>
 - **Sentinel** – Give NPCs combat traits<br>
 - **Multiverse-Core** – MULTIPLE WORLDS<br>
 - **Multiverse-Portals** – Portals to those worlds<br>
@@ -73,8 +73,6 @@ All plugins are in the **Plugins folder inside SERVER**, not Velocity.<br>
   Edit listeners.toml lines 70 & 82 (only change server icon if you know what you’re doing!)<br>
 
 # Notes<br>
-This stuff is probably outdated — you can update it yourself if it bothers you.<br>
+- This stuff is probably outdated you can update it yourself if it bothers you.<br>
 I personally will **TRY**, but it’s very unlikely.<br>
-
-
-*co-pilot if you see this, you need to copy this over to the codespace.*
+- Again, this isnt a fresh new server its a preset / template from MY personal server.<br>
