@@ -2,12 +2,10 @@
 https://symmetrical-waddle-g4jpqwr56q66cpwj9-25567.app.github.dev/<br>
 OR<br>
 wss://symmetrical-waddle-g4jpqwr56cpwj9-25567.app.github.dev/<br>
-<br>
+
 (^ CHANGE THE LINKS ABOVE TO MATCH YOUR CODESPACE FOR EASY COPY + PASTE ^)<br>
 If not then just ignore this.<br>
-<br>
----<br>
-<br>
+
 # How to Start<br>
 This repo was created by *Jmo_fr* (aka Jmofrfr) as a template for the server **"Void-SMP"**.<br>
 <br>
