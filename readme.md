@@ -3,8 +3,8 @@ https://symmetrical-waddle-g4jpqwr56q66cpwj9-25567.app.github.dev/<br>
 OR<br>
 wss://symmetrical-waddle-g4jpqwr56cpwj9-25567.app.github.dev/<br>
 <br>
-> (^ CHANGE THE LINKS ABOVE TO MATCH YOUR CODESPACE FOR EASY COPY + PASTE ^)<br>
-> If not then just ignore this.<br>
+(^ CHANGE THE LINKS ABOVE TO MATCH YOUR CODESPACE FOR EASY COPY + PASTE ^)<br>
+If not then just ignore this.<br>
 <br>
 ---<br>
 <br>
@@ -19,23 +19,20 @@ This repo was created by *Jmo_fr* (aka Jmofrfr) as a template for the server **"
 4. Replace: https:// → wss://<br>
    That’s your server IP.<br>
    *(Paste the https link into a new tab for a client.)*<br>
-<br>
----<br>
-<br>
+
 # Plugins<br>
-<br>
+
 ## Plugin Notes<br>
 This template **comes with plugins pre-installed**.<br>
 Just set them up how you like — they have presets.<br>
 All plugins are in the **Plugins folder inside SERVER**, not Velocity.<br>
 **HIGHLY** recommend checking all configs yourself.<br>
-<br>
-### Core<br>
+### Core
 - **EssentialsX** – The BEST plugin out there; if you don’t know it, maybe don’t run a server<br>
 - **EssentialsXChat** – Lets you use ranks made with LuckPerms<br>
 - **EssentialsXSelectors** – Use selectors like @s in EssentialsX commands<br>
 - **Vault** – Economy<br>
-<br>
+
 ### NPC / World<br>
 - **Citizens** – NPCs<br>
 - **Sentinel** – Give NPCs combat traits<br>
