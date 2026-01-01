@@ -30,6 +30,7 @@ All plugins are in the **Plugins folder inside SERVER**, not Velocity.<br>
 - **EssentialsXChat** – Lets you use ranks made with LuckPerms<br>
 - **EssentialsXSelectors** – Use selectors like @s in EssentialsX commands<br>
 - **Vault** – Economy<br>
+- **Luck Perms** - The best permissions plugin, it also does ranks! 
 
 ### NPC / World
 - **Citizens** – NPCs (There are NPCs already in the world, just "/npc list" and then remove them if needed.)<br>
@@ -72,7 +73,14 @@ All plugins are in the **Plugins folder inside SERVER**, not Velocity.<br>
 - **How can I change the server MOTD?**<br>
   Edit listeners.toml lines 70 & 82 (only change server icon if you know what you’re doing!)<br>
 
-# Notes<br>
+# Notes
 - This stuff is probably outdated you can update it yourself if it bothers you.<br>
 I personally will **TRY**, but it’s very unlikely.<br>
 - Again, this isnt a fresh new server its a preset / template from MY personal server.<br>
+
+# Additional Content
+## You still can make this server better by contributing!!
+- download WORLDGUARD!!! just plop it into the plugins folder *(inside server)* click okay,<br>
+stop the server, start the server, and **BOOM** WorldGuard is installed.<br>
+### Other Plugins
+- Just download and use whats *^ above ^* to install to your server.<br>
