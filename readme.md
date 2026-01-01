@@ -11,7 +11,7 @@ This repo was created by *Jmo_fr* (aka Jmofrfr) as a template for the server **"
 <br>
 ### Steps:<br>
 1. Run the command:<br>
-   bash startup.sh<br>
+   `bash startup.sh` <br>
 2. Set **BOTH ports** to public.<br>
 3. Copy the port link on **port 25567**.<br>
 4. Replace: https:// → wss://<br>
@@ -57,7 +57,7 @@ All plugins are in the **Plugins folder inside SERVER**, not Velocity.<br>
 
 # Legal Stuff
 - This is a **REAL server** using **ViaVersion** (allowing older players to join)<br>
-- **Offline mode is OFF** to allow cracked players<br>
+- **Online mode is OFF** to allow cracked players<br>
 - Eaglercraft 1.8–1.12 **does NOT** contain Minecraft code<br>
 - Eaglercraft Was Made as a project BY **lax1dude** to make Minecraft run in a browser<br>
 
@@ -67,11 +67,11 @@ All plugins are in the **Plugins folder inside SERVER**, not Velocity.<br>
 - **Why is there already stuff on here?**<br>
   This world is a **TEMPLATE**, not a new server. Recommended: make a new multiverse world to start fresh.<br>
 - **How do I OP myself?**<br>
-  Type in console: op username<br>
+  Type in console: `op username` <br>
 - **Why can’t I do commands on console?**<br>
   Remove the /<br>
 - **How can I change the server MOTD?**<br>
-  Edit listeners.toml lines 70 & 82 (only change server icon if you know what you’re doing!)<br>
+  Edit `listeners.toml` lines 70 & 82 (only change server icon if you know what you’re doing!)<br>
 
 # Notes
 - This stuff is probably outdated you can update it yourself if it bothers you.<br>
@@ -84,3 +84,4 @@ I personally will **TRY**, but it’s very unlikely.<br>
 stop the server, start the server, and **BOOM** WorldGuard is installed.<br>
 ### Other Plugins
 - Just download and use whats *^ above ^* to install to your server.<br>
+Plugins can be found at "Modrinth" Or "SpigotMC" or just look up "Minecraft Plugins"<br>
