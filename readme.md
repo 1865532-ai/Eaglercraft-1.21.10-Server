@@ -4,7 +4,7 @@ this is just a template for people who dont know how to start their own server.<
 this is **NOT** a fresh server.<br>
 
 ### ***THIS IS NOT MADE BY ME!!!!***
-- it was made by wadwadwad and atypicalpotato *(On Youtube!)*
+- it was made by wadwdwd1 and atypicalpotato *(On Youtube!)*
 - this is just a fork for again, people who dont know how to start their server, and more.
 
 # Link / IP<br>
