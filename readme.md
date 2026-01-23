@@ -7,19 +7,14 @@ this is **NOT** a fresh server.<br>
 - it was made by wadwdwd1 and atypicalpotato *(On Youtube!)*
 - this is just a fork for again, people who dont know how to start their server, and more.
 
-# Link / IP<br>
-https://symmetrical-waddle-g4jpqwr56q66cpwj9-25567.app.github.dev/<br>
-OR<br>
-wss://symmetrical-waddle-g4jpqwr56cpwj9-25567.app.github.dev/<br>
-
-(^ CHANGE THE LINKS ABOVE TO MATCH YOUR CODESPACE FOR EASY COPY + PASTE ^)<br>
-If not then just ignore this.<br>
-
 # How to Start<br>
 This repo was created *as a fork* by *Jmo_fr* (aka Jmofrfr) as a template for the server **"Void-SMP"**.<br>
 (see more at *"This was not created by me!!!"*)
 
 ### Steps:<br>
+0. first open in codespaces: 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a2e5354a-c29a-4df0-9485-c3895ac59cc3" />
+then;
 1. Run the command:<br>
    `bash startup.sh` <br>
 2. Set **BOTH ports** to public.<br>
