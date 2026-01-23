@@ -13,7 +13,8 @@ This repo was created *as a fork* by *Jmo_fr* (aka Jmofrfr) as a template for th
 
 ### Steps:<br>
 0. first open in codespaces: 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a2e5354a-c29a-4df0-9485-c3895ac59cc3" />
+<img width="481" height="228" alt="whyandhowureadinthis" src="https://github.com/user-attachments/assets/74f3b0c9-f1bf-4688-b629-ecd6a04fdb19" />
+
 then;
 1. Run the command:<br>
    `bash startup.sh` <br>
