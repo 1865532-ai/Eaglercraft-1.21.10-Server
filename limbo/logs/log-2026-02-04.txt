@@ -28,3 +28,17 @@ io.netty.handler.timeout.ReadTimeoutException: null
 15:37:05.117 INFO  Limbo -- Player Jmofrfr disconnected
 18:42:56.163 INFO  Limbo -- Starting server...
 18:42:58.141 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+19:38:15.812 INFO  Limbo -- Player F10NA_ connected (/127.0.0.1:54090) [V1_12_2]
+19:39:00.513 INFO  Limbo -- Player F10NA_ disconnected
+19:48:38.448 INFO  Limbo -- Starting server...
+19:48:39.378 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+19:52:11.378 INFO  Limbo -- Starting server...
+19:52:12.179 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+19:54:56.039 INFO  Limbo -- Starting server...
+19:54:56.681 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+20:02:05.989 INFO  Limbo -- Starting server...
+20:02:06.660 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+20:04:21.807 INFO  Limbo -- Player Jmofrfr connected (/127.0.0.1:33428) [V1_12_2]
+20:06:18.838 ERROR Limbo -- Unhandled exception: 
+io.netty.handler.timeout.ReadTimeoutException: null
+20:06:18.841 INFO  Limbo -- Player Jmofrfr disconnected
