@@ -1,3 +1,79 @@
+BigPlots:
+  adjust-spawn: true
+  alias: ''
+  allow-advancement-grant: true
+  allow-flight: false
+  allow-weather: true
+  anchor-respawn: true
+  auto-heal: true
+  auto-load: true
+  bed-respawn: true
+  biome: ''
+  difficulty: easy
+  entry-fee:
+    enabled: false
+    amount: 0.0
+    currency: '@vault-economy'
+  environment: normal
+  gamemode: survival
+  generator: PlotSquared
+  hidden: false
+  hunger: true
+  keep-spawn-in-memory: true
+  player-limit: -1
+  portal-form: all
+  pvp: true
+  respawn-world: ''
+  scale: 1.0
+  seed: -6241269216305152226
+  spawn-location:
+    ==: MVSpawnLocation
+    x: 64.0
+    y: 65.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  spawning: {}
+  world-blacklist: []
+  version: 1.2
+Plots:
+  adjust-spawn: true
+  alias: ''
+  allow-advancement-grant: true
+  allow-flight: false
+  allow-weather: true
+  anchor-respawn: true
+  auto-heal: true
+  auto-load: true
+  bed-respawn: true
+  biome: ''
+  difficulty: easy
+  entry-fee:
+    enabled: false
+    amount: 0.0
+    currency: '@vault-economy'
+  environment: normal
+  gamemode: survival
+  generator: PlotSquared
+  hidden: false
+  hunger: true
+  keep-spawn-in-memory: true
+  player-limit: -1
+  portal-form: all
+  pvp: true
+  respawn-world: ''
+  scale: 1.0
+  seed: -1622717322559567132
+  spawn-location:
+    ==: MVSpawnLocation
+    x: 304.0
+    y: 65.0
+    z: -240.0
+    pitch: 0.0
+    yaw: 0.0
+  spawning: {}
+  world-blacklist: []
+  version: 1.2
 gimu:
   adjust-spawn: true
   alias: ''

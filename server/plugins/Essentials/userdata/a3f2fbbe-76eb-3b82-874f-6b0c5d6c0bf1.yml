@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1767138108068
-  login: 1767136918154
+  logout: 1770218955655
+  login: 1770219426375
 money: '0'
 last-account-name: Jmofrfr
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 0287afd3-cc48-4e07-96f8-06b2585d811b
   world-name: world
-  x: -112.53467155296433
-  y: 65.5
-  z: -46.60011927433694
-  yaw: 175.198486328125
-  pitch: 21.749971389770508
+  x: 14.344174392636162
+  y: 63.0
+  z: 458.81127329466017
+  yaw: -96.89984130859375
+  pitch: 17.25000762939453

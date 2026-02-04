@@ -557,8 +557,8 @@ allow-silent-join-quit: false
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-join-message: "none"
-custom-quit-message: "none"
+custom-join-message: "&8[&a&l+&8] &e{USERNAME}&7 {ONLINE} Others in the server."
+custom-quit-message: "&8[&c&l-&8] &e{USERNAME}&7 {ONLINE} remain."
 
 # You can set a custom join message for players who join with an updated username here.
 # This message will only be used if a player has joined before and has since changed their username.
@@ -574,7 +574,7 @@ custom-quit-message: "none"
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-new-username-message: "none"
+custom-new-username-message: "&aWelcome &6&l{USERNAME} &aTo The Server!"
 
 # Should Essentials override the vanilla "Server Full" message with its own from the language file?
 # Set to false to keep the vanilla message.
@@ -632,7 +632,7 @@ max-walk-speed: 0.8
 max-fly-speed: 0.8
 
 # Set the maximum amount of mail that can be sent within a minute.
-mails-per-minute: 1000
+mails-per-minute: 10
 
 # Set the maximum duration, in seconds, that /mute can be applied for.
 # Set to -1 to disable the limit. Players with the 'essentials.mute.unlimited' permission can bypass this restriction.
@@ -951,7 +951,7 @@ chat:
   # Note: The {DISPLAYNAME} placeholder includes {PREFIX} and {SUFFIX} by default.
   # Using these together may result in double prefixes/suffixes in chat.
 
-  format: '<{DISPLAYNAME}> {MESSAGE}'
+  format: '{DISPLAYNAME} &8»&r {MESSAGE}'
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {NICKNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
