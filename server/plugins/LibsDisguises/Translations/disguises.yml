@@ -705,3 +705,29 @@
 
 # Used for the disgiuse modify radius command to list all disguisetypes
 "DisgiseType": "DisgiseType"
+# Name for the CAMEL_HUSK disguise
+"Camel Husk": "Camel Husk"
+
+# Name for the COPPER_GOLEM disguise
+"Copper Golem": "Copper Golem"
+
+# Name for the MANNEQUIN disguise
+"Mannequin": "Mannequin"
+
+# Name for the NAUTILUS disguise
+"Nautilus": "Nautilus"
+
+# Name for the PARCHED disguise
+"Parched": "Parched"
+
+# Name for the ZOMBIE_NAUTILUS disguise
+"Zombie Nautilus": "Zombie Nautilus"
+
+# Name for the CopperGolem EntityType, this is used in radius commands
+"CopperGolem": "CopperGolem"
+
+# Name for the HappyGhast EntityType, this is used in radius commands
+"HappyGhast": "HappyGhast"
+
+# Name for the RideableMinecart EntityType, this is used in radius commands
+"RideableMinecart": "RideableMinecart"

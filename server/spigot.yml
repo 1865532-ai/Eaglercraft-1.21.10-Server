@@ -18,6 +18,7 @@ messages:
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
 settings:
+  disable-secure-chat: true
   bungeecord: true
   save-user-cache-on-stop-only: false
   sample-count: 12

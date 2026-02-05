@@ -708,3 +708,23 @@
 
 # Used as a shortcut for setBaby(false) when disguising an entity
 "adult": "adult"
+# Found in the disguise options for Entity and uses a InteractiveBoundingBox
+"setBoundingBox": "setBoundingBox"
+
+# Found in the disguise options for Entity and uses a DisguiseSoundCategory
+"setSoundCategory": "setSoundCategory"
+
+# Found in the disguise options for CopperGolem and uses a WeatheringCopperState
+"setOxidation": "setOxidation"
+
+# Found in the disguise options for HappyGhast and uses a DyeColor
+"setHarnessColor": "setHarnessColor"
+
+# Found in the disguise options for HappyGhast and uses a boolean
+"setHarnessed": "setHarnessed"
+
+# Found in the disguise options for HappyGhast and uses a boolean
+"setLeashHolder": "setLeashHolder"
+
+# Found in the disguise options for Mannequin and uses a Component
+"setDescription": "setDescription"

@@ -1,9 +1,9 @@
 teleportenabled: true
 teleportauto: false
-godmode: false
+godmode: true
 muted: false
 jailed: false
-ip-address: 127.0.0.1
+ip-address: 0:0:0:0:0:0:0:1
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1766535109511
+  lastteleport: 1770304547888
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1770218955655
-  login: 1770219426375
+  logout: 1770306008675
+  login: 1770304505816
 money: '0'
 last-account-name: Jmofrfr
 lastlocation:
-  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
-  world-name: world
-  x: -16.02967404674922
-  y: 78.64413159251295
-  z: -12.351887811557908
-  yaw: -168.15000915527344
-  pitch: 7.199999809265137
+  world: 892d3e1b-3484-4bcf-b8a4-06deb925e4a0
+  world-name: BigPlots
+  x: -145.37928383578105
+  y: 65.0
+  z: -157.39779640611937
+  yaw: 54.000240325927734
+  pitch: 5.249950408935547
 logoutlocation:
   world: 0287afd3-cc48-4e07-96f8-06b2585d811b
   world-name: world
-  x: 14.344174392636162
-  y: 63.0
-  z: 458.81127329466017
-  yaw: -96.89984130859375
-  pitch: 17.25000762939453
+  x: -159.07863159662938
+  y: 75.24315074408
+  z: -113.71881352684315
+  yaw: -129.75152587890625
+  pitch: 14.699949264526367

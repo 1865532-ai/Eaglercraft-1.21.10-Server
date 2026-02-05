@@ -1,4 +1,4 @@
 # Citizens NPC Storage
-
 last-created-npc-id: 115
-npc: {}
+npc: {
+  }
